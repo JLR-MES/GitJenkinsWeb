@@ -12,6 +12,7 @@ namespace BusinessLogic
         {
             int c = a + b;
             return c;
+
         }
     }
 }
